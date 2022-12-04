@@ -3,7 +3,7 @@
 <br/>
 
 > MAiVAR: Multimodal Audio-Image and Video Action Recognizer
-> [Muhammad Bilal Shaikh](https://mbs.onrender.com/)<sup>\*</sup>, [Douglas Chai](https://www.ecu.edu.au/schools/engineering/staff/profiles/associate-deans/dr-douglas-chai))<sup>\*</sup>, [Syed Mohammed Shamsul Islam](https://www.ecu.edu.au/schools/science/staff/profiles/senior-lecturers/sislam)<sup>\*</sup>, [Naveed Akhtar](http://www.cad.zju.edu.cn/home/bao/](https://research-repository.uwa.edu.au/en/persons/naveed-akhtar)
+> [Muhammad Bilal Shaikh](https://mbs.onrender.com/)<sup>\*</sup>, [Douglas Chai](https://www.ecu.edu.au/schools/engineering/staff/profiles/associate-deans/dr-douglas-chai))<sup>\*</sup>, [Syed Mohammed Shamsul Islam](https://www.ecu.edu.au/schools/science/staff/profiles/senior-lecturers/sislam)<sup>\*</sup>, [Naveed Akhtar](http://www.cad.zju.edu.cn/home/bao/](https://research-repository.uwa.edu.au/en/persons/naveed-akhtar).   
 > VCIP 2022
 
 ![demo_vid](assets/loftr-github-demo.gif)
