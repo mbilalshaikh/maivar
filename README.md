@@ -3,8 +3,8 @@
 <br/>
 
 > MAiVAR: Multimodal Audio-Image and Video Action Recognizer
-> [Jiaming Sun](https://jiamingsun.ml)<sup>\*</sup>, [Zehong Shen](https://zehongs.github.io/)<sup>\*</sup>, [Yu'ang Wang](https://github.com/angshine)<sup>\*</sup>, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/)  
-> CVPR 2021
+> [Muhammad Bilal Shaikh](https://mbs.onrender.com/)<sup>\*</sup>, [Douglas Chai](https://www.ecu.edu.au/schools/engineering/staff/profiles/associate-deans/dr-douglas-chai))<sup>\*</sup>, [Syed Mohammed Shamsul Islam](https://www.ecu.edu.au/schools/science/staff/profiles/senior-lecturers/sislam)<sup>\*</sup>, [Naveed Akhtar](http://www.cad.zju.edu.cn/home/bao/](https://research-repository.uwa.edu.au/en/persons/naveed-akhtar)
+> VCIP 2022
 
 ![demo_vid](assets/loftr-github-demo.gif)
 
