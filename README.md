@@ -9,21 +9,23 @@
 ![demo_vid](assets/loftr-github-demo.gif)
 
 ## TODO List and ETA
-- [x] Inference code and pretrained models (DS and OT) (2021-4-7)
-- [x] Code for reproducing the test-set results (2021-4-7)
-- [x] Webcam demo to reproduce the result shown in the GIF above (2021-4-13)
-- [x] Training code and training data preparation (expected 2021-6-10)
+- [x] Results on Kinect-400 (2022-11-04)
+- [] Inference code and pretrained models (DS and OT) (2023)
+- [] Code for reproducing the test-set results (2023)
+- [] Webcam demo to reproduce the result shown in the GIF above (2023)
+- [] Training code and training data preparation (expected 2023)
 
-Discussions about the paper are welcomed in the [discussion panel](https://github.com/zju3dv/LoFTR/discussions).
+Discussions about the paper are welcomed in the [discussion panel](https://github.com/mbilalshaikh/maivar/discussions/).
 
 :thinking: **FAQ**
+- Distraction of audio from the background?
+- Cleverness in fusion of different modalities?
 
-1. Undistorted images from D2Net are not available anymore.  
-   For a temporal alternative, please use the undistorted images provided by the MegaDepth_v1 (should be downloaded along with the required depth files). We numerically compared these images and only found very subtle difference.
 
 :triangular_flag_on_post: **Updates**
-- Check out [QuadTreeAttention](https://github.com/Tangshitao/QuadTreeAttention), a new attention machanism that improves the efficiency and performance of LoFTR with less demanding GPU requirements for training.
-- :white_check_mark: Integrated to [Huggingface Spaces](https://huggingface.co/spaces) with [Gradio](https://github.com/gradio-app/gradio). See [Gradio Web Demo](https://huggingface.co/spaces/akhaliq/Kornia-LoFTR)
+- Presentation at CAIML Internal Forum (1/12/2022)
+- Presentation at AJCAI 2022, Perth Australia (5/12/2022)
+- Presentation at VCIP, Suzhuo, China (15/12/2022)
 
 
 ## Citation
