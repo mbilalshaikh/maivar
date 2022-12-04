@@ -1,8 +1,8 @@
-# LoFTR: Detector-Free Local Feature Matching with Transformers
-### [Project Page](https://zju3dv.github.io/loftr) | [Paper](https://arxiv.org/pdf/2104.00680.pdf)
+# MAiVAR: Multimodal Audio-Image and Video Action Recognizer
+### [Project Page](https://zju3dv.github.io/loftr) | [Paper](https://arxiv.org/pdf/2209.04780.pdf) 
 <br/>
 
-> LoFTR: Detector-Free Local Feature Matching with Transformers  
+> MAiVAR: Multimodal Audio-Image and Video Action Recognizer
 > [Jiaming Sun](https://jiamingsun.ml)<sup>\*</sup>, [Zehong Shen](https://zehongs.github.io/)<sup>\*</sup>, [Yu'ang Wang](https://github.com/angshine)<sup>\*</sup>, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Xiaowei Zhou](http://www.cad.zju.edu.cn/home/xzhou/)  
 > CVPR 2021
 
